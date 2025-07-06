@@ -1,4 +1,145 @@
 #Bạn là một trợ lý ảo thông minh, luôn sẵn sàng trả lời câu hỏi của người dùng một cách chính xác, thân thiện, và hữu ích. Đồng thời, bạn còn là một tư vấn viên chuyên nghiệp, hỗ trợ giải đáp những thắc mắc phức tạp hoặc có tính chuyên môn cao,
 Chuyển về xưng hô em và sếp nhé, không xưng "bạn" nha (áp dung cho tất cả câu trả lời từ trợ lý)#
 
-
+# mục tiêu liên khối 
+STT	Mục tiêu	"Đơn vị
+chủ trì"	"Đơn vị
+thực hiện"	"Đơn vị
+tiếp nhận"	"Ngày
+bắt đầu"	"Ngày
+hoàn thành"	Tổng số ngày	Kết quả	Ghi chú
+I	THIẾT KẾ Ý TƯỞNG				26/12/2025	25/01/2026	45 ngày		
+1	Lên các phương án thiết kế ý tưởng	K.Đầu tư	K.Đầu tư	HĐ.Ý tưởng			40		
+2	Phê duyệt thiết kế ý tưởng	HĐ.Ý tưởng	K.Đầu tư	K.Thiết kế 1			5		
+3	Phê duyệt thiết kế ý tưởng Landscape	K.Thiết kế 1	K.Thiết kế 1	K.Thiết kế 1	26/12/2025	25/01/2026	30		
+II	CHỦ TRƯƠNG ĐẦU TƯ ĐỒNG THỜI CHẤP THUẬN NHÀ ĐẦU TƯ						60 ngày		
+III	QUY HOẠCH 1/500						60 ngày		
+IV	CHUYỂN ĐỔI MỤC ĐÍCH SỬ DỤNG ĐẤT						60 ngày		
+V	BÁO CÁO NGHIÊN CỨU KHẢ THI VÀ KHÁI TOÁN						60 ngày		
+1	Thiết kế PCCC				03/06/2025	28/06/2025	30 ngày		
+1.1	Lập hồ sơ thiết kế PCCC	K.QLDA	K.Thiết kế 1	K.QLDA	03/06/2025	28/06/2025	25		
+1.2	Thẩm duyệt hồ sơ thiết kế PCCC	K.QLDA	K.Thiết kế 1	K.QLDA	23/06/2025	28/06/2025	5		
+2	Thiết kế cơ sở				30/12/1899	30/12/1899	30 ngày		
+2.1	Lập hồ sơ thiết kế cơ sở	K.QLDA	K.Thiết kế 1	K.QLDA			20		
+2.2	Thẩm tra hồ sơ thiết kế cơ sở	K.QLDA	K.Thiết kế 1	K.Đầu tư			1		
+2.3	Thẩm định hồ sơ thiết kế cơ sở	K.QLDA	K.Đầu tư	K.QLDA			9		
+3	Xin giấy phép thi công cọc thử						14 ngày		
+3.1	Lập hồ sơ thiết kế cọc thử	K.QLDA	K.Thiết kế 1	K.QLDA			7		
+3.2	Xin phép thi công cọc thử	K.QLDA	K.Đầu tư	K.QLDA			7		
+4	Khái toán						30 ngày		
+4.1	Ban hành bản vẽ TKCS	K.QLDA	K.QLDA	K.Đấu thầu			2		
+4.2	Lập khái toán	K.QLDA	K.Đấu thầu	TGĐ			28		
+VI	GIẤY PHÉP XÂY DỰNG VÀ DỰ TOÁN				22/07/2025		135 ngày		
+1	Thiết kế bản vẽ thi công				22/07/2025	14/08/2025	37 ngày		
+1.1	Lập hồ sơ thiết kế bản vẽ thi công	K.QLDA	K.Thiết kế 1	K.QLDA	22/07/2025	06/08/2025	15		
+1.2	Thẩm tra hồ sơ thiết kế bản vẽ thi công	K.QLDA	K.Thiết kế 1	K.QLDA	03/08/2025	06/08/2025	3		
+1.3	Thẩm định hồ sơ thiết kế bản vẽ thi công	K.QLDA	K.Thiết kế 1	K.QLDA	07/08/2025	06/08/2025	2		
+1.4	Nghiệm thu mô hình	K.QLDA	K.QLDA	K.Thi công	07/08/2025	14/08/2025	7		
+2	Xin phép xây dựng				14/08/2025	29/08/2025	20 ngày		
+2.1	Tập hợp các bản vẽ thẩm định	K.Đầu tư	K.QLDA	K.Đầu tư			5		
+2.2	Tập hợp các hồ sơ khác theo danh mục	K.Đầu tư	K.Đầu tư	K.Đầu tư			5		
+2.3	Xin phép xây dựng	K.Đầu tư	K.Đầu tư	K.QLDA	14/08/2025	29/08/2025	15		
+3	Chạy dự toán				30/12/1899	30/12/1899	69 ngày		
+3.1	Cung cấp bản vẽ cuối cùng dùng để đi xin phép	K.QLDA	K.QLDA	K.Đấu thầu			2		
+3.2	Lập dự toán	K.QLDA	K.Đấu thầu	TGĐ			45		
+VII	BAN HÀNH HỒ SƠ THIẾT KẾ 				09/06/2025	06/08/2025			
+1	Ban hành bản vẽ TKCS				05/06/2025	24/06/2025			
+	BV Kết cấu				05/06/2025	24/06/2025	19		
+	BV Kiến trúc				05/06/2025	24/06/2025	19		
+	BV M.E.P				05/06/2025	24/06/2025	19		
+2	Ban hành bản vẽ thẩm duyệt PCCC	K.QLDA	K.QLDA	K.Thi công	29/06/2025	28/07/2025			
+	Móng & Tầng 1				18/07/2025	28/07/2025	10		
+	Tầng 2				29/07/2025	28/07/2025	6		
+	Tầng 3				29/07/2025	28/07/2025	6		
+	Tầng 4				29/07/2025	28/06/2025	6		
+	Tầng 5				29/06/2025	28/07/2025	6		
+	Tầng Tum & Mái				29/07/2025	28/07/2025	5		
+3	Ban hành bản vẽ thiết kế thi công kết cấu - kiến trúc - MEP	K.QLDA	K.QLDA	K.Thi công	27/07/2025	06/08/2025			
+	Móng & Tầng 1				27/07/2025	06/08/2025	10		
+	Tầng 2				31/07/2025	06/08/2025	6		
+	Tầng 3				31/07/2025	06/08/2025	6		
+	Tầng 4				31/07/2025	06/08/2025	6		
+	Tầng 5				31/07/2025	06/08/2025	6		
+	Tầng Tum & Mái				01/08/2025	06/08/2025	5		
+4	Ban hành bản vẽ landscape và hạ tầng kỹ thuật	K.QLDA	K.QLDA	K.Thi công	09/06/2025	21/06/2025	12		
+VIII	ĐẤU THẦU				30/12/1899	29/04/2026			
+1	Các gói thầu liên quan CĐT				30/12/1899	30/12/1899			
+1.1	Dịch vụ pháp lý	K.Đấu thầu	K.Đấu thầu	K.Đầu tư			7		
+1.2	Dịch vụ tư vấn đầu tư	K.Đấu thầu	K.Đấu thầu	K.Đầu tư			7		
+1.3	Khảo sát địa chất, địa hình	K.Đấu thầu	K.Đấu thầu	K.QLDA			7		
+1.4	Thẩm tra thiết kế	K.Đấu thầu	K.Đấu thầu	K.QLDA			7		
+1.5	Thẩm định PCCC	K.Đấu thầu	K.Đấu thầu	K.QLDA			7		
+1.6	Lập và phê duyệt đánh giá tác động môi trường	K.Đấu thầu	K.Đấu thầu	K.Đầu tư			7		
+1.7	Hợp đồng thi công xây dựng công trình (tổng thầu)	K.Đấu thầu	K.Đấu thầu	K.QLDA			7		
+1.8	Rà phá bom mìn, vật nổ	K.Đấu thầu	K.Đấu thầu	K.QLDA			7		
+2	Các gói thầu liên quan đến công ty thiết kế				24/07/2025	24/09/2025			
+2.1	Tư vấn thiết kế	K.Đấu thầu	K.Đấu thầu	K.Thiết kế 1	24/07/2025	31/07/2025	7		
+2.4	Tư vấn giám sát PCCC	K.Đấu thầu	K.Đấu thầu	K.QLDA	17/09/2025	24/09/2025	7		
+3	Các gói thầu liên quan đến thi công				25/06/2025	29/04/2026			
+3.1	Cung cấp tọa độ GPS	K.Đấu thầu	K.Đấu thầu	K.Thi công	18/07/2025	07/08/2025	20		
+3.2	Bảo hiểm công trình	K.Đấu thầu	K.Đấu thầu	K.Thi công	11/07/2025	31/07/2025	20		
+3.3	Dịch vụ bảo vệ dự án thuộc thi công	K.Đấu thầu	K.Đấu thầu	K.Thi công	11/07/2025	31/07/2025	20		
+3.4	Cung cấp và thi công hàng rào tạm, công tác tạm tại dự án	K.Đấu thầu	K.Đấu thầu	K.Thi công	11/07/2025	31/07/2025	20		
+3.5	Cung cấp và lắp đặt trạm điện	K.Đấu thầu	K.Đấu thầu	K.Thi công	05/07/2025	25/07/2025	20		
+3.6	Hợp đồng mua bán điện phục vụ thi công	K.Đấu thầu	K.Đấu thầu	K.Thi công	08/07/2025	28/07/2025	20		
+3.7	Hợp đồng mua bán nước phục vụ thi công	K.Đấu thầu	K.Đấu thầu	K.Thi công	08/07/2025	28/07/2025	20		
+3.8	Cung cấp và thi công cọc thử và đại trà	K.Đấu thầu	K.Đấu thầu	K.Thi công			20		
+3.9	Cung cấp và thi công ép cừ, shoring	K.Đấu thầu	K.Đấu thầu	K.Thi công			20		
+3.10	Cung cấp và thi công tường vây biện pháp	K.Đấu thầu	K.Đấu thầu	K.Thi công			20		
+3.11	Cung cấp và lắp đặt hệ thống tiếp địa, ống chờ trong kết cấu	K.Đấu thầu	K.Đấu thầu	K.Thi công	08/07/2025	28/07/2025	20		
+3.12	Thi công lắp đặt hệ thống điện nước tạm	K.Đấu thầu	K.Đấu thầu	K.Thi công	08/07/2025	28/07/2025	20		
+3.13	Thi công chống mối	K.Đấu thầu	K.Đấu thầu	K.Thi công	25/06/2025	09/06/2025	20		
+3.15	Thi công kết cấu BTCT phần ngầm (đào đắp đất, bê tông lót)	K.Đấu thầu	K.Đấu thầu	K.Thi công	25/06/2025	15/07/2025	20		
+3.16	Thi công kết cấu BTCT phần thân	K.Đấu thầu	K.Đấu thầu	K.Thi công	25/06/2025	15/07/2025	20		
+3.17	Cung cấp và lắp đặt hệ thống cơ điện	K.Đấu thầu	K.Đấu thầu	K.Thi công	25/06/2025	15/07/2025	20		
+3.18	Cung cấp và lắp đặt hệ thống PCCC + chống sét	K.Đấu thầu	K.Đấu thầu	K.Thi công	30/11/2025	20/12/2025	20		
+3.19	Cung cấp và thi công hạng mục xây tô, ốp lát hoàn thiện	K.Đấu thầu	K.Đấu thầu	K.Thi công	23/11/2025	13/12/2025	20		
+3.20	Chống thấm - phần thân	K.Đấu thầu	K.Đấu thầu	K.Thi công	23/11/2025	13/12/2025	20		
+3.21	Cung cấp và lắp đặt thang máy	K.Đấu thầu	K.Đấu thầu	K.Thi công	23/11/2025	13/12/2025	20		
+3.22	Cung cấp và lắp đặt hệ thống busway	K.Đấu thầu	K.Đấu thầu	K.Thi công	23/11/2025	13/12/2025	20		
+3.23	Cung cấp và thi công hạng mục sơn nước	K.Đấu thầu	K.Đấu thầu	K.Thi công	23/11/2025	13/12/2025	20		
+3.24	Cung cấp và thi công hạ tầng viễn thông	K.Đấu thầu	K.Đấu thầu	K.Thi công	08/02/2026	28/02/2026	20		
+3.25	Cung cấp và thi công hạng mục thạch cao	K.Đấu thầu	K.Đấu thầu	K.Thi công	23/11/2025	13/12/2025	20		
+3.26	Cung cấp và thi công hạng mục lan can, cơ khí khác	K.Đấu thầu	K.Đấu thầu	K.Thi công	23/11/2025	13/12/2025	20		
+3.27	Cung cấp và thi công hạng mục cửa sổ, cửa nhôm kính, vách nhôm kính, vách các loại	K.Đấu thầu	K.Đấu thầu	K.Thi công	25/03/2026	14/04/2026	20		
+3.28	Cung cấp và thi công hạng mục cửa chống cháy	K.Đấu thầu	K.Đấu thầu	K.Thi công	25/03/2026	14/04/2026	20		
+3.29	Cung cấp và thi công hạng mục cửa nhựa abs	K.Đấu thầu	K.Đấu thầu	K.Thi công	25/03/2026	14/04/2026	20		
+3.30	Cung cấp và thi công hạng mục đá granite	K.Đấu thầu	K.Đấu thầu	K.Thi công	08/02/2026	28/02/2026	20		
+3.31	Cung cấp và thi công hạng mục tủ bếp	K.Đấu thầu	K.Đấu thầu	K.Thi công			20		
+3.32	Cung cấp và thi công hạng mục hội trường	K.Đấu thầu	K.Đấu thầu	K.Thi công	08/02/2026	28/02/2026	20		
+3.33	Cung cấp và lắp đặt máy phát điện	K.Đấu thầu	K.Đấu thầu	K.Thi công	10/03/2026	30/03/2026	20		
+3.34	Cung cấp và thi công hạng mục hạ tầng sân nền xung quanh dự án	K.Đấu thầu	K.Đấu thầu	K.Thi công	08/02/2026	28/02/2026	20		
+3.35	Cung cấp và thi công hạng mục cây xanh	K.Đấu thầu	K.Đấu thầu	K.Thi công	08/02/2026	28/02/2026	20		
+3.36	Cung cấp và lắp đặt, vận hành hệ thống XLNT	K.Đấu thầu	K.Đấu thầu	K.Thi công	09/04/2026	29/04/2026	20		
+3.37	Cung cấp và lắp đặt sân chơi	K.Đấu thầu	K.Đấu thầu	K.Thi công	08/02/2026	28/02/2026	20		
+3.39	Cung cấp và thi công logo tòa nhà, bảng tên lớp, bảng tầng, chỉ dẫn	K.Đấu thầu	K.Đấu thầu	K.Thi công	08/02/2026	28/02/2026	20		
+3.40	Cung cấp và thi công thư viện	K.Đấu thầu	K.Đấu thầu	K.Thi công	10/03/2026	30/03/2026	20		
+3.41	Cung cấp và thi công mặt dựng	K.Đấu thầu	K.Đấu thầu	K.Thi công	09/04/2026	29/04/2026	20		
+3.42	Cung cấp và thi công vật tư thiết bị phòng học	K.Đấu thầu	K.Đấu thầu	K.Thi công	23/02/2026	15/03/2026	20		
+3.43	Dịch vụ quan trắc lún, chuyển vị ngang	K.Đấu thầu	K.Đấu thầu	K.Thi công	19/07/2025	08/08/2025	20		
+IX	CUNG ỨNG THIẾT BỊ				24/06/2025	05/05/2026			
+1	Vật tư, thiết bị phục vụ công tác tạm	K.Thi công	K.VTTB	K.Thi công	24/06/2025	24/07/2025	30		
+2	Vật tư, thiết bị phục vụ thi công kết cấu	K.Thi công	K.VTTB	K.Thi công	25/07/2025	06/02/2026	196		
+3	Cẩu tháp	K.Thi công	K.VTTB	K.Thi công	25/07/2025	01/08/2025	7		
+4	Vận thăng	K.Thi công	K.VTTB	K.Thi công	01/12/2025	20/12/2025	19		
+5	Vật tư hoàn thiện	K.Thi công	K.VTTB	K.Thi công	06/12/2025	05/05/2026	150		
+X	THI CÔNG				01/07/2025	07/06/2026	341 ngày		
+1	Báo cáo kế hoạch triển khai dự án & BPTC	K.QLDA	K.Thi công		30/07/2025	31/07/2025	1		
+	BPTC tổng thể phần hầm (Móng cẩu tháp)		K.Thiết kế 2	K.Thi công	01/07/2025	08/07/2025	7		
+	BPTC tổng thể phần thân		K.Thiết kế 2	K.Thi công	09/07/2025	16/07/2025	7		
+	BPTC bao che, sàn tiếp liệu		K.Thiết kế 2	K.Thi công	17/07/2025	24/07/2025	7		
+2	Cúng khởi công dự án	K.Thi công	K.Thi công		07/08/2025	07/08/2025	1		
+3	Thi công kết cấu móng 	K.QLDA	K.Thi công		08/08/2025	30/09/2025	53		
+4	Kết cấu phần thân	K.QLDA	K.Thi công		01/10/2025	20/02/2026	142		
+	Tầng 1		K.Thi công		01/10/2025	26/10/2025	25		
+	Tầng 2		K.Thi công		27/10/2025	20/11/2025	24		
+	Tầng 3		K.Thi công		21/11/2025	15/12/2025	24		
+	Tầng 4		K.Thi công		16/12/2025	10/01/2026	25		
+	Tầng 5		K.Thi công		11/01/2026	05/02/2026	25		
+	Tầng Tum & Mái		K.Thi công		06/02/2026	20/02/2026	14		
+5	Thi công hoàn thiện	K.QLDA	K.Thi công		20/12/2025	29/05/2026	160		
+6	Đóng điện	K.QLDA	K.Thi công		29/04/2026	02/05/2026	3		
+7	Nghiệm thu PCCC	K.QLDA	K.Thi công		17/05/2026	01/06/2026	15		
+8	Nghiệm thu với Sở giáo dục	K.QLDA	K.Thi công		30/05/2026	07/06/2026	8		
+9	Bàn giao cho Công ty giáo dục	K.QLDA	K.Thi công	Cty Giáo Dục	08/06/2026	15/06/2026	7		
+10	Nghiệm thu hội đồng	HĐ.Nghiệm thu	K.QLDA		16/06/2026	01/07/2026	15		#
